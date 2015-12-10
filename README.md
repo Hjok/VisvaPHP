@@ -1,6 +1,6 @@
 # VisvaPHP
 
-A class to perform path simplification in PHP using Visvalingam-Whyatt's algorithm
+A class to perform path simplification in PHP using Visvalingam-Whyatt's (also known as Visvalingam-Wyatt's) algorithm
 
 This class is used to assign a priority to each point of a set of data, using Visvalingam-Whyatt's algorithm in order to do line simplification,
 which means it allows you to set a priority one time, and then filter it on runtime using each point's priority how many time you need.
